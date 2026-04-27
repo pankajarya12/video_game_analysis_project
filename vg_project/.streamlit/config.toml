@@ -1,0 +1,15 @@
+# Streamlit theme — dark with an accent color.
+# Users can switch to light from the hamburger menu.
+
+[theme]
+base = "dark"
+primaryColor = "#7c3aed"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#e2e8f0"
+font = "sans serif"
+
+[server]
+headless = true
+port = 8501
+address = "0.0.0.0"

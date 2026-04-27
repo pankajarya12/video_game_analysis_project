@@ -1,0 +1,7 @@
+users:
+  admin:
+    password: $2b$12$f7X1W28XXWxywYntKlVoZOxtNrhPO0VsH6Qr/YRkuOOWUV1lwbowC
+    role: admin
+  analyst:
+    password: $2b$12$Se0hfaPwyZEuHrE9YIrXYevoFEv.XAaLgJjJ6jhswnE2p3qTTuJae
+    role: viewer
